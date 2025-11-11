@@ -1,0 +1,62 @@
+{
+  "czech": [
+    "Fotka letadla",
+    "Fotka auta",
+    "Fotka ptáka",
+    "Fotka kočky",
+    "Fotka jelena",
+    "Fotka psa.",
+    "Fotka žáby",
+    "Fotka koně",
+    "Fotografie lodi",
+    "Fotografie náklaďáku"
+  ],
+  "finnish": [
+    "Lentokoneen kuva",
+    "Auton kuva",
+    "Kuva linnusta",
+    "Kuvassa kissa.",
+    "Eläimen kuva",
+    "Koiran kuva",
+    "Kuva sammakosta",
+    "Kuva hevosesta",
+    "Aluksen kuva",
+    "Kuva kuorma-autosta"
+  ],
+  "hungarian": [
+    "A repülőgép fényképe",
+    "Egy autó fényképe",
+    "Egy madár fényképe",
+    "Egy macska fényképe",
+    "Egy szarvas fényképe",
+    "Egy kutya fényképe",
+    "Egy béka fényképe",
+    "Egy ló fényképe.",
+    "A hajó fényképe",
+    "A teherautó fényképe"
+  ],
+  "romanian": [
+    "O fotografie cu avionul",
+    "O fotografie a maşinii",
+    "O fotografie a păsării",
+    "O fotografie cu pisica.",
+    "O fotografie cu cerb.",
+    "O fotografie cu câinele.",
+    "O fotografie cu broasca",
+    "O fotografie cu calul.",
+    "O fotografie a navei",
+    "O fotografie a camionului"
+  ],
+  "croatian": [
+    "Fotografija aviona",
+    "Fotografija automobila",
+    "Fotografija ptice",
+    "Fotografija mačke",
+    "Fotografija jelena",
+    "Fotografija psa",
+    "Fotografija žaba",
+    "Fotografija konja",
+    "Fotografija broda",
+    "Slika kamiona"
+  ]
+}
