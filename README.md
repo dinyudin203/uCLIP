@@ -1,4 +1,4 @@
-# uCLIP: Parameter-Efficient Multilingual Extension of Vision-Language Models with Unpaired Data (AAAI 2026)
+# 📎uCLIP: Parameter-Efficient Multilingual Extension of Vision-Language Models with Unpaired Data (AAAI 2026)
 ### [Project](https://dinyudin203.github.io/uCLIP) | [Paper]() <br>
 
 Note:  
@@ -41,9 +41,10 @@ cd inference
 python multilingual_classification.py
 ```
 
-### Inference Time
+### Measure Inference Time
 ```bash
-python inference/inference_time.py --dataset mscoco
+cd inference
+python inference_time.py --dataset mscoco
 ```
 You can change the --dataset argument.
 
