@@ -1,5 +1,5 @@
 # 📎 uCLIP: Parameter-Efficient Multilingual Extension of Vision-Language Models with Unpaired Data (AAAI 2026)
-### [Project](https://dinyudin203.github.io/uCLIP-project) | [Paper]() <br>
+### [Project](https://dinyudin203.github.io/uCLIP-project) | [Paper](https://arxiv.org/abs/2511.13036) <br>
 
 Note:  
 The memory bank files, model checkpoints, and image files in test datasets are not included in this repo due to their large sizes.  
